@@ -4,7 +4,6 @@ A Streamlit web app that analyses customer-support conversations and reports the
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## ✨ Features
 
@@ -106,6 +105,3 @@ It has not been evaluated on a labelled dataset and should not be used to make d
 
 **Samruddhi Jain** — [@samruddhidev](https://github.com/samruddhidev)
 
-## 📄 License
-
-Released under the [MIT License](LICENSE).
